@@ -1,6 +1,6 @@
 <div class="strip margin-mobi shadow-sm" style="box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important; border-radius:4px; overflow:hidden!important"">
     <div class="heading-t" style="overflow:hidden!important">
-        <span class="fa fa-soccer-ball-o" style="margin-right:5px; color:white"></span>
+        
         <span style="color:white;">Thursday 20th Oct</span>
     </div>
     <div class="form-t" style="display:flex; align-items: left; padding-left:15px; padding-right:15px; padding-top:8px;">

@@ -4,7 +4,7 @@
     <div class="logo-section">
         <img src="png/" style="height:45px" alt="">
     </div>
-    <div class="btn-section" style="display:flex; justify-content:space-between">
+    <div class="btn-section" style="display:flex; justify-content:space-around">
     <div class="logn " style="margin-right:10px;">
     <button style="border-radius:0px" type="submit" class="btn btn-default login-btn">LOGIN</button>
     </div>

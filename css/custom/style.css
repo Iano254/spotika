@@ -88,6 +88,9 @@ a:hover{
     }
 }
 @media (max-width: 768px){
+    .login-section{
+        justify-content: space-evenly!important;
+    }
     .side-nav-nav{
         display: none;
     }
