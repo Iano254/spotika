@@ -1,5 +1,5 @@
-<div class="slider-wrapper" style="height:230px; background-image:url('png/score.png'); background-position:center; background-size:cover; overflow:hidden;">
-<div id="myCarousel" class="carousel slide" data-ride="carousel" style="height: 225px;">
+<div class="slider-wrapper" style=" background-image:url('png/score.png'); background-position:center; background-size:cover; overflow:hidden;">
+<div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:85px">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -33,3 +33,6 @@
   </a>
 </div>
 </div>
+
+
+

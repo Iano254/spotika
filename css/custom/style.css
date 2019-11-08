@@ -15,14 +15,7 @@ a:hover{
     color:#01BE6E;
 }
 
-.login-section{
-    background-color: #F7CD00; 
-    padding:15px 15px;
-    display: flex;
-    justify-content:space-between;
 
-    
-}
 .logo-section{
     color:white;
 }
@@ -86,10 +79,50 @@ a:hover{
     .glyphicon{
         margin-right:10px;
     }
+    .login-section{
+        padding:15px 15px;
+        display: flex;
+        justify-content:space-between;
+    
+        
+    }
 }
 @media (max-width: 768px){
     .login-section{
-        justify-content: space-evenly!important;
+        padding:0 0;
+        display: flex;
+        justify-content:space-between;
+    
+        
+    }
+    td{
+        padding:0px!important;
+        border-color: transparent;
+    }
+    .login-section{
+        
+    background-color: #F7CD00; 
+    }
+    .input-f .btn{
+        font-size:13px;
+        margin-right: 2px;
+        background-color: #F7CD00;
+        border-color: #F7CD00;
+        padding:3px;
+        color:#AF0512;
+    }
+    .input-d .btn{
+        font-size:13px;
+        margin-right: 2px;
+        background-color: #680008;
+        border-color: #680008;
+        padding:3px;
+        color:#fff!important;
+        border-radius: 0px !important;
+    }
+    .login-section{
+        justify-content: space-around!important;
+        background-color: #AF0512!important;
     }
     .side-nav-nav{
         display: none;
@@ -116,16 +149,15 @@ a:hover{
     }
     .odds{
         background-color: #898B8D;
-       margin-right:15px;
-       margin-left:15px;
+       margin-right:5px;
+       margin-left:5px;
     }
     .margin-mobi{
         margin-right:15px;
         margin-left:15px;
     }
     .slider-wrapper, .footer-section, .copyright-section{
-        margin-right:15px;
-        margin-left:15px;
+        
     }
 }
 
